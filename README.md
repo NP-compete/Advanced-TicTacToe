@@ -1,6 +1,8 @@
 ### Modern Tic Tac Toe
 
-	The following game modernizes the classic game of tic tac toe. Not only is this a 3D version, but it also provides the user with unlimited entertainment. This game takes tic tac toe to a whole 'nother level, both literally and figureatively. The users can challenge their wits by figuring out who can strategize better and eventually win. 
+The following game modernizes the classic game of tic tac toe. Not only is this a 3D version, but it also provides the user with 
+unlimited entertainment. This game takes tic tac toe to a whole 'nother level, both literally and figureatively. The users can 
+challenge their wits by figuring out who can strategize better and eventually win. 
 
 ### Usage
 local two-person play version
